@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @quinishacockheran
+# 👋 Hi, I’m Quinisha C.
 
 Welcome to my GitHub profile! Here’s a bit about me:
 
