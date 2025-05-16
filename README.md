@@ -7,7 +7,9 @@ Welcome to my GitHub profile! Here’s a bit about me:
 *💞️ I’m looking to collaborate on technology-based social impact projects, data analytics initiatives, and anything that helps bridge gaps in opportunity and knowledge.*  
 📫 How to reach me: Email me or connect with me on LinkedIn.  
 😄 Pronouns: She/Her  
-⚡ Fun fact: I’m from New Orleans, where I developed a passion for culture, creativity, and resilience, which now fuels my tech journey and entrepreneurial dreams.  
+⚡ Fun fact: I’m from New Orleans, where I developed a passion for culture, creativity, and resilience, which now fuels my tech journey and entrepreneurial dreams.
+
+🛠️ My projects focus on uncovering insights that drive equity, innovation, and community transformation—especially in creative and mission-based spaces.
 Thanks for stopping by—let’s create something amazing! 🚀  
 
 <!---
