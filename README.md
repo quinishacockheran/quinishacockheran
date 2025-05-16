@@ -1,19 +1,24 @@
-## 👋 Hi, I’m Quinisha C.  
-Welcome to my GitHub profile! Here’s a bit about me:  
-  
-**👀 I’m interested in** building impactful technology solutions, uncovering insights through data analysis, and promoting creativity through community-driven projects.  
-**🌱 Earned** a Business Intelligence Analysis certifcation through TripleTen, focusing on SQL, data visualization, and storytelling with data.  
-**💻 Skills:** Expertise in Power BI, Python, Tableau, SQL, and Excel. I use these tools for advanced data analysis, visualization, and process optimization.  
-*💞️ I’m looking to collaborate on technology-based social impact projects, data analytics initiatives, and anything that helps bridge gaps in opportunity and knowledge.*  
-📫 How to reach me: Email me or connect with me on LinkedIn.  
-😄 Pronouns: She/Her  
-⚡ Fun fact: I’m from New Orleans, where I developed a passion for culture, creativity, and resilience, which now fuels my tech journey and entrepreneurial dreams.
+# 👋 Hi, I’m Quinisha C.
 
-🛠️ My projects focus on uncovering insights that drive equity, innovation, and community transformation—especially in creative and mission-based spaces.
+Welcome to my GitHub profile!
 
-Thanks for stopping by—let’s create something amazing! 🚀  
+🎯 I’m a Business Intelligence and Data Analyst passionate about using data to tell powerful stories, solve real-world problems, and uplift communities—especially within creative and mission-based spaces.
 
-<!---
-quinishacockheran/quinishacockheran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+✨ I earned my Business Intelligence Analytics certification through TripleTen, where I focused on data visualization, Python scripting, SQL querying, and dashboard development using Power BI and Tableau.
+
+🔧 Tools I use:
+Power BI | Python (Pandas) | Tableau | SQL | Excel
+
+💡 What I build:
+- Analytical dashboards that reveal patterns and guide decisions
+- Creative visualizations that turn numbers into stories
+- Insight-driven reports for nonprofits, startups, and digital communities
+
+🌱 I’m currently building independent projects that explore topics in equity, culture, and digital media. Every project is an opportunity to grow, reflect, and refine my skills.
+
+💬 Let’s collaborate!
+I’m open to roles and freelance projects where data meets creativity - think storytelling with impact, dashboards for community organizations, or tech for social good.
+
+📍 Based in Seattle | Originally from New Orleans | She/Her
+
+Thanks for stopping by. Let’s build something insightful together 🚀
