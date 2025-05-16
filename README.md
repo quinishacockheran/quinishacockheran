@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!
 
-🎯 I’m a Business Intelligence and Data Analyst passionate about using data to tell powerful stories, solve real-world problems, and uplift communities—especially within creative and mission-based spaces.
+🎯 I’m a Business Intelligence & Data Analyst passionate about using data to tell compelling stories, solve real-world problems, and support mission-driven initiatives—particularly in creative and community-focused sectors.
 
 ✨ I earned my Business Intelligence Analytics certification through TripleTen, where I focused on data visualization, Python scripting, SQL querying, and dashboard development using Power BI and Tableau.
 
@@ -10,15 +10,15 @@ Welcome to my GitHub profile!
 Power BI | Python (Pandas) | Tableau | SQL | Excel
 
 💡 What I build:
-- Analytical dashboards that reveal patterns and guide decisions
-- Creative visualizations that turn numbers into stories
-- Insight-driven reports for nonprofits, startups, and digital communities
+- Analytical dashboards that uncover insights and drive decisions
+- Visualizations that translate complex data into clear narratives
+- Insightful reports tailored for nonprofits, startups, and digital communities
 
-🌱 I’m currently building independent projects that explore topics in equity, culture, and digital media. Every project is an opportunity to grow, reflect, and refine my skills.
+🌱 I’m currently working on independent projects that explore topics in equity, culture, and digital media. Each project is an opportunity to refine my skills and contribute to meaningful work.
 
 💬 Let’s collaborate!
-I’m open to roles and freelance projects where data meets creativity - think storytelling with impact, dashboards for community organizations, or tech for social good.
+I’m open to roles and freelance opportunities where data helps drive creativity, innovation, and positive change.
 
 📍 Based in Seattle | Originally from New Orleans | She/Her
 
-Thanks for stopping by. Let’s build something insightful together 🚀
+Thanks for stopping by—let’s create something impactful together 🚀
