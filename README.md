@@ -10,6 +10,7 @@ Welcome to my GitHub profile! Here’s a bit about me:
 ⚡ Fun fact: I’m from New Orleans, where I developed a passion for culture, creativity, and resilience, which now fuels my tech journey and entrepreneurial dreams.
 
 🛠️ My projects focus on uncovering insights that drive equity, innovation, and community transformation—especially in creative and mission-based spaces.
+
 Thanks for stopping by—let’s create something amazing! 🚀  
 
 <!---
