@@ -16,7 +16,7 @@ SQL | Tableau | Excel | Power BI | Python (Pandas)
 
 🌱 I’m currently working on independent projects that explore topics in equity, culture, and digital media. Each project is an opportunity to refine my skills and contribute to meaningful work.
 
-🎬🎮 I'm a cinephile and gamer with a storytelling-focused blog at www.seauxsims.tumblr.com.
+🎬🎮 I'm a cinephile and gamer with a storytelling-focused blog at seauxsims.tumblr.com.
 
 💬 Let’s collaborate!
 I’m open to roles and freelance opportunities where data helps drive creativity, innovation, and positive change.
