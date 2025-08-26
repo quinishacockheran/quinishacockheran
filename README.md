@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!
 
-🎯 I’m a results-driven Business Intelligence & Data Analyst passionate about using data to tell compelling stories, solve real-world problems, and support mission-driven initiatives—particularly in creative and community-focused sectors.
+🎯 I’m a results-driven Business Intelligence & Data Analyst passionate about using data to tell compelling stories, solve real-world problems, and support mission-driven initiatives, particularly in creative and community-focused sectors.
 
 ✨ I earned my Business Intelligence Analytics certification through TripleTen, where I focused on data visualization, SQL querying, Python scripting, and dashboard development using Power BI and Tableau.
 
