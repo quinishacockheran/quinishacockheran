@@ -12,7 +12,7 @@ Data-Driven Decision Making: Proficiency in SQL, Tableau, Power BI, and Python t
 Operational Excellence: A proven track record of using internal systems and digital logs to maintain 100% record accuracy and improve service response times by 25%. 
 Collaborative Communication: Extensive experience acting as a liaison between stakeholders, technical teams and non-technical end users to ensure smooth technology adoption.
  
-Technical Toolkit</br>
+Technical Toolkit:</br>
 IT Support: PC Hardware, OS Installation, System Optimization, Basic Networking 
 Data & Analytics: Advanced Excel, Tableau, SQL, Python (Pandas), Power BI 
 Productivity: Microsoft 365, Google Workspace, SharePoint, Documentation/SOPs 
