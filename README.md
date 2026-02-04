@@ -1,26 +1,26 @@
-# 👋 Hi, I’m Quinisha C.
+# Hi, I’m Quinisha C.
 
 Welcome to my GitHub profile!
 
-🎯 I’m a results-driven Business Intelligence & Data Analyst passionate about using data to tell compelling stories, solve real-world problems, and support mission-driven initiatives, particularly in creative and community-focused sectors.
+I'm a multi-skilled Information Technology professional with a unique background bridging high-stakes physical operations and technical data management. For nearly four years, I directed large-scale property operations, managing not only the physical sites but the digital infrastructure and data integrity behind them. 
 
-✨ I earned my Business Intelligence Analytics certification through TripleTen, where I focused on data visualization, SQL querying, Python scripting, and dashboard development using Power BI and Tableau.
+I specialize in turning "messy" operational problems into clear, workable solutions by combining technical troubleshooting with advanced data reporting. Whether I'm configuring a network or building a performance dashboard, my goal is to ensure data fidelity and system reliability for the teams I support.
 
-🔧 Tools I use:
-SQL | Tableau | Excel | Power BI | Python (Pandas)
+What I offer:
+IT Infrastructure & Support: Hands-on experience with PC hardware assembly, OS configuration (Windows/macOS), and SOHO networking (TCP/IP, DNS, DHCP). 
+Data-Driven Decision Making: Proficiency in SQL, Tableau, Power BI, and Python to clean, analyze, and visualize data that improves business outcomes. 
+Operational Excellence: A proven track record of using internal systems and digital logs to maintain 100% record accuracy and improve service response times by 25%. 
+Collaborative Communication: Extensive experience acting as a liaison between stakeholders, technical teams and non-technical end users to ensure smooth technology adoption.
+ 
+Technical Toolkit
+IT Support: PC Hardware, OS Installation, System Optimization, Basic Networking 
+Data & Analytics: Advanced Excel, Tableau, SQL, Python (Pandas), Power BI 
+Productivity: Microsoft 365, Google Workspace, SharePoint, Documentation/SOPs 
 
-💡 What I build:
-- Analytical dashboards that uncover insights and drive decisions
-- Visualizations that translate complex data into clear narratives
-- Insightful reports tailored for nonprofits, startups, and digital communities
+I'm currently expanding my technical foundation with CompTIA A+ and eager to connect with teams where my mix of operational leadership and technical curiosity can drive creativity, innovation, and positive change. Let’s collaborate!
 
-🌱 I’m currently working on independent projects that explore topics in equity, culture, and digital media. Each project is an opportunity to refine my skills and contribute to meaningful work.
+Fun fact: I'm a cinephile and gamer with a storytelling-focused blog at https://seauxsims.tumblr.com/.
 
-🎬🎮 I'm a cinephile and gamer with a storytelling-focused blog at https://seauxsims.tumblr.com/.
+Thanks for stopping by—let’s create something impactful together!
 
-💬 Let’s collaborate!
-I’m open to roles and freelance opportunities where data helps drive creativity, innovation, and positive change.
-
-📍 Based in Seattle | Originally from New Orleans | She/Her
-
-Thanks for stopping by—let’s create something impactful together 🚀
+Based in Seattle | Originally from New Orleans | She/Her
