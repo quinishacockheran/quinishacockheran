@@ -21,6 +21,6 @@ I'm currently expanding my technical foundation with CompTIA A+ and eager to con
 
 Fun fact: I'm a cinephile and gamer with a storytelling-focused blog at https://seauxsims.tumblr.com/.
 
-Thanks for stopping by—let’s create something impactful together!
+Thanks for stopping by. Let’s create something impactful together!
 
 Based in Seattle | Originally from New Orleans | She/Her
