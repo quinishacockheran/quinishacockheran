@@ -1,18 +1,18 @@
 # Hi, I’m Quinisha C.
 
-###Welcome to my GitHub profile!
+## Welcome to my GitHub profile!
 
 I'm a multi-skilled Information Technology professional with a unique background bridging high-stakes physical operations and technical data management. For nearly four years, I directed large-scale property operations, managing not only the physical sites but the digital infrastructure and data integrity behind them. 
 
 I specialize in turning "messy" operational problems into clear, workable solutions by combining technical troubleshooting with advanced data reporting. Whether I'm configuring a network or building a performance dashboard, my goal is to ensure data fidelity and system reliability for the teams I support.
 
-## What I offer:</br>
+### What I offer:</br>
 - **IT Infrastructure & Support:** Hands-on experience with PC hardware assembly, OS configuration (Windows/macOS), and SOHO networking (TCP/IP, DNS, DHCP).</br> 
 - **Data-Driven Decision Making:** Proficiency in SQL, Tableau, Power BI, and Python to clean, analyze, and visualize data that improves business outcomes.</br>
 - **Operational Excellence:** A proven track record of using internal systems and digital logs to maintain 100% record accuracy and improve service response times by 25%.</br>
 - **Collaborative Communication:** Extensive experience acting as a liaison between stakeholders, technical teams and non-technical end users to ensure smooth technology adoption.</br>
  
-## Technical Toolkit:</br>
+### Technical Toolkit:</br>
 - **IT Support:** PC Hardware, OS Installation, System Optimization, Basic Networking</br>
 - **Data & Analytics:** Advanced Excel, Tableau, SQL, Python (Pandas), Power BI</br>
 - **Productivity:** Microsoft 365, Google Workspace, SharePoint, Documentation/SOPs</br>
